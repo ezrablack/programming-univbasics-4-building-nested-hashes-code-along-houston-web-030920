@@ -16,3 +16,7 @@ def third_challenge
 
   
 end
+
+
+
+one_piece_owned: 25, 
